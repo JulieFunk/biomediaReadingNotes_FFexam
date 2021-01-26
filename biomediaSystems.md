@@ -1,5 +1,19 @@
 # Biomedia and Systems Theory Notes Log
-**Last updated: January 24, 2021**
+**Last updated: January 25, 2021**
+
+## Behar, Katherine. *Bigger Than You: Big Data and Obesity.* Punctum Books, 2016.
+
+*"Plainly enough, data seems to be like plastic, the product of human labour--it is, after all...something very personal: an extension, I would contend, of the physical human body. Indeed arguments for data privacy rhetorically position data as* bodily *(deserving of the same protections from exploitation under capitalism that the body itself enjoys), rather than as a product of labour (which is fair game for capitalist exploitation)"* (p. 8).
+
+As Thacker understands the body-as-information in biomedia, Behar reminds us how information (specifically as data) is treated as rhetorically bodily, an extension of the self. However, this conception, as Behar points out, erroneously seperates data as a bodily extension from the bodily labour of data production.
+
+*"So big data is at once confusingly close to us and our bodies, and always on the verge of becoming just junk, neither useful nor exchangeable, like plastic, a hoarder's embarrassment"* (p. 10-11).
+
+*"Clough's gross inclusions lend unexpected credence to the counterintuitive confusion between data as an external object (product of labour) and data as included-in-subject (part of the labouring body). If affect is in matter, and an affective theory of value moves beyond the body-as-organism, we don't produce self. We aren't who or what or how we think we are. We are, it seems, much bigger, more materially diverse, and crowd-like"* (p. 28).
+
+*"In my reading, a collective body-of-obesity/body-of-information models object-oriented feminist transhumanism and embodies decelerationist aesthetics. A transhuman body is capable of lateral agency, also described by Berlant as 'the forms of spreading pleasure...necessary to lubricate the body's movement through capitalized time's [efficiency] shortened circuit"* (p. 29).
+
+Behar uses obesity to think through "bloated" bodies of information and their collective, but amorphic organization against the techno-efficiencies of accelerationist ideals. Here, Berlant's language of 'spreading' and 'lubricating' points to the oozing of bodies across form and relations system (open systems).
 
 ## Thacker, Eugene. *Biomedia.* Minnesota UP, 2004.
 
@@ -18,6 +32,6 @@ The materiality of the medium is not the essential approach of Thacker's biomedi
 
 *"Systems biology has begun by addressing a technical question, but in the process has raised issues that are both technical-scientific and philosophical ethical. The characterization of the biomolecular body as 'inhuman; is not a moral description;* inhuman *does not necessarily imply* antihuman *or* nonethical. *It does, however suggest that a radically 'other' model of the body emerges from the predominantly technical orientations of systems biology, a model we have been calling the biomolecular body"* (p. 163)
 
-*"**Systems theory is a conscious respons to the dominant paradigm of gene centrism in biotech.** In place of the emphasis on genes, it offers an emphasis on interactions between molecules. In place of the emphasis on things, it offers relations. In place of the emphasis on substance, it offers network and pathways of behavior...Howeverm in offering this alternative, it does not take into accound the larger philosphical issues it opens up, namely the incommensurability between the self and the network, between the body and system. **Curiously, it opens onto a nonhuman view of the biomolecular body, one fundamentally at odds with the subject-based, human view of genetic medicine"*** (pp. 173-4)
+*"**Systems theory is a conscious respons to the dominant paradigm of gene centrism in biotech.** In place of the emphasis on genes, it offers an emphasis on interactions between molecules. In place of the emphasis on things, it offers relations. In place of the emphasis on substance, it offers network and pathways of behavior...However in offering this alternative, it does not take into accound the larger philosphical issues it opens up, namely the incommensurability between the self and the network, between the body and system. **Curiously, it opens onto a nonhuman view of the biomolecular body, one fundamentally at odds with the subject-based, human view of genetic medicine"*** (pp. 173-4)
 
 Again, it seems that Thacker's generalization of biomedia and systems theory is caught up in the specificity of genomic practices, despite his claim that "it offers an emphasis on the interactions between molecules" and not genes. Philosophical questions around genetics have trouble escaping post-Enlightenment ideals of the human as a liberal individual subject. DNA promises an encoding of individuality and there is little room for what might be seen as mutation through input/output (i/o) patterns of interaction with bodies in their environments (open-system Systems Biology). From an epigenetic perspective, unless networking longitudinal systems of genetic "vitality" (a term Thacker already rejects) through inheritance, genetics cannot seem to escape pointing back to the system-as-self. Endo/exocrine relations on the otherhand ooze and leak into their environments. Their encodings, recodings, and decodings occur in patterns of relations through multispecies.
