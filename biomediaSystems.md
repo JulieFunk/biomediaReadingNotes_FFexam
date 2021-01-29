@@ -1,5 +1,33 @@
 # Biomedia and Systems Theory Notes Log
-**Last updated: January 25, 2021**
+**Last updated: January 29, 2021**
+
+## Losh, Elizabeth and Jacqueline Wernimont. *Bodies of Information: Intersectional Feminism and Digital Humanities.* Minnesota UP, 2018.
+
+**cárdenas, micha. "The Android Goddess Declaration: After Man(ifestos)," pp. 25-38.**
+
+*"The UNSTOPPABLE project began by searching for materials for creating do-it-yourself bulletprood clothing. Internet searches on the topic led to internet forums from white supremacist and right-wing groups, which detail exactly which materials stop what caliber of bullet and where one can find those materials"* (p. 27)
+
+Pulling information or "knowledge" from white supremacist groups - put into conversation with the queerness of cis-male Silicon Valley "biohackers" using estrogen-blockers to reaffirm toxic masculinity.
+
+*"Elsewhere, I have built on the assemblage model proposed by Jasbir Puar to develop an algorithmic model of analysis, and this example expands the notion of a tool to consider the algorithms the tool runs, or the uses to which it is put, its recipes or rituals of usage...by abstracting the concept of algorithms to include recipes and rituals. Additionally, this puts digital humanities scholars studying algorithms in dialogue with performance studies, which questions both the usage and the context of embodied gestures in making and communicating meaning"* (p. 29).
+
+Here cárdenas takes informatics (via algorithms) to the abstraction that Thacker's biomedia includes in his description and definition, but does not demonstrate in his examples. Recipes and performances of biomedia include day-to-day, non-discovery led but still generative, productions of bodies as rich in hormonal data. This is done through indexing meaning (defining parameters) and collapsing boundaries in biological systems. This is demonstrated by critical research-creation projects like Open-Source Estrogen, N(o)vum Organum, and by "biohacking" projects like Loop.
+
+*"Elsewhere, I have built on the assemblage model proposed by Jasbir Puar to develop an algorithmic model of analysis, and this example expands the notion of a tool to consider the algorithms the tool runs, or the uses to which it is put, its recipes or rituals of usage...by abstracting the concept of algorithms to include recipes and rituals. Additionally, this puts digital humanities scholars studying algorithms in dialogue with performance studies, which questions both the usage and the context of embodied gestures in making and communicating meaning"* (p. 29).
+
+*"Envrionmental scientists have made it evident that for life to continue on this planet, far more care must be directed to nonhuman entities such as trees, animals, and water"* (p. 30).
+
+Cárdenas' "Declaration" points to ecologies of vitalism. This ontological approach is necessary for understanding the affected bodies of networked endocrinology (in human and non-human agents).
+
+**Coleman, Beth. "Domestic Disturbances: Precarity, Agency, Data," pp. 391-408.**
+
+*"I am interested in a theory of data as the experiential, an X-reality of networked information as a real-time component of geolocated phenomena...Judith Butler describes a generative relation between data and society: "If the people are constituted through a complex interplay of performance, image, acoustics, and all the various technologies engages in those production, then 'media' is not just reporting who the people claim to be, but media has entered into the very definition of the people. It is the stuff of self-constitution, the site of hegemonic struggle over who 'we' are." In the formation of 'self-constitution,' Butler articulates a socio-techno subject, one reflected and self-fashioned (witness and action) of the event of mediation"* (p. 392).
+
+While I do think that the "complex interplay of performance, image, acoustics, and all the various technologies" does engags in production, I am more concerned with a production, or rather co-production, of an ecological constitution of networked systems biology--sympoeisis.
+
+*"In a counter-reading of the graph, I am suggesting that there is also a mode of shadow data--information that does not appear as significant on the graph but may be inferred with significance based on a combination of online and located activist engagement. By interpreting positive and shadow data along these lines, one can argue that they mark the temporality of an internet meme (political or not) as well as the* ongoing *work on the ground by activists"* (p. 401).
+
+Shadow data, as interpreting the lulls, gives form to pattern/randomness where new values of inquiry are given to patterns typically considered the "negative space" of data. This is examplified in Loop which switches focus to the shadow data of blood glucose monitoring (see "Loop").
 
 ## Behar, Katherine. *Bigger Than You: Big Data and Obesity.* Punctum Books, 2016.
 
