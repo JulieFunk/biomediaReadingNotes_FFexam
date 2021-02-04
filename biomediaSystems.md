@@ -1,11 +1,26 @@
 # Biomedia and Systems Theory Notes Log
-**Last updated: January 29, 2021**
+**Last updated: February 4, 2021**
+
+## Pedersen, Isabel and Andrew Illiadis. *Embodied Computing: Wearables, Implantables, Embeddables, Ingestbles.* MIT Press, 2020.
+
+**Pedersen, Isabel and Andrew Illiadis. "Introduction:Embodied Computing," pp. ix-xxxix.**
+
+*"Just as people make demands on embodies computing technologies those same technologies make demands on people's bodies and the social norms around them...Embodied computing devices attempt to redefine people **as subjects** and as **data sources** in multiple spheres..."* (pp. xii-xiii, emphasis added).
+
+Pedersen and Illiadis emphasis on the demands of embodied computing and its ultimate role in subject-making are useful ideas for framing how embodies computing creates (or even outputs) disability and disorder when users' data distributions and disruptions are considered queer to the design of the system. This is largely because cultures of the quantified self rely on an understanding of the body as individually agentic and individually "optimizable."
+
+*"Is it no longer sufficient to think of the body as a discrete, singular entity with distinct boundaries? Rather, should bodies be thought of in terms of levels, both corporeal and abstract, as data-blended entities that are susceptable to outside manipulation, surveillance, and control? In the past, bodies were assumed to be converging with technological advancements (Jenkins 2006; Haraway 1991), but should people consider them, in the face of large internet companies and governmental control, as data-blended bodies, **forcibly merged** with extended ambient environments..?"* (pp. xxii-xx-iii).
+
+I'm not sure what Pedersen and Illiadis mean by "levels" here. The body as a form lacking discrete boundaries (see Behar) is not a new idea, in fact it's a particularly poststructuralist idea and posthuman idea. Here it seems the authors are attempting to introduce some posthuman ontology to an issue that remains in the cultural realm of *transhumanism* which, as Wolfe points out, is still largely invested in Enlightment notions of the liberal individual subject. However, the authors' move to a more posthuman ontological position stops short of acknowledging the full scale of body-data-distribution and relations in the material world. For example, the authors do not address how human biodata is "forcibly merged" with biodata on local fish populations through hormonal pollution (See "Toxic Sexes"), breaking species boundaries and body boundaries to establish multispecies (Haraway).
+
+**Pedersen, Isabel. "Will the Body Become a Platform? Body Networks, Datafied Bodies, and AI Futures," pp. 21-47.***
+
 
 ## Losh, Elizabeth and Jacqueline Wernimont. *Bodies of Information: Intersectional Feminism and Digital Humanities.* Minnesota UP, 2018.
 
 **cárdenas, micha. "The Android Goddess Declaration: After Man(ifestos)," pp. 25-38.**
 
-*"The UNSTOPPABLE project began by searching for materials for creating do-it-yourself bulletprood clothing. Internet searches on the topic led to internet forums from white supremacist and right-wing groups, which detail exactly which materials stop what caliber of bullet and where one can find those materials"* (p. 27)
+*"The UNSTOPPABLE project began by searching for materials for creating do-it-yourself bulletprood clothing. Internet searches on the topic led to internet forums from white supremacist and right-wing groups, which detail exactly which materials stop what caliber of bullet and where one can find those materials"* (p. 27).
 
 Pulling information or "knowledge" from white supremacist groups - put into conversation with the queerness of cis-male Silicon Valley "biohackers" using estrogen-blockers to reaffirm toxic masculinity.
 
