@@ -1,4 +1,4 @@
-# Biomedia and Systems Theory Notes Log
+# Bodies, Media, Systems Notes Log
 **Last updated: February 4, 2021**
 
 ## Pedersen, Isabel and Andrew Illiadis. *Embodied Computing: Wearables, Implantables, Embeddables, Ingestbles.* MIT Press, 2020.
@@ -14,6 +14,16 @@ Pedersen and Illiadis emphasis on the demands of embodied computing and its ulti
 I'm not sure what Pedersen and Illiadis mean by "levels" here. The body as a form lacking discrete boundaries (see Behar) is not a new idea, in fact it's a particularly poststructuralist idea and posthuman idea. Here it seems the authors are attempting to introduce some posthuman ontology to an issue that remains in the cultural realm of *transhumanism* which, as Wolfe points out, is still largely invested in Enlightment notions of the liberal individual subject. However, the authors' move to a more posthuman ontological position stops short of acknowledging the full scale of body-data-distribution and relations in the material world. For example, the authors do not address how human biodata is "forcibly merged" with biodata on local fish populations through hormonal pollution (See "Toxic Sexes"), breaking species boundaries and body boundaries to establish multispecies (Haraway).
 
 **Pedersen, Isabel. "Will the Body Become a Platform? Body Networks, Datafied Bodies, and AI Futures," pp. 21-47.***
+
+*"In earlier work, I contributed the term 'continuum of embodiment' as a cultural framework to explore the ideological justifications for technology hardware platforms that are increasingly embodied (Pedersen 2013). Framing the phenomenon as a continuum enabled me to write about how public, academic, journalistic, fictional, and commercialized discourses valorize prerelease personal technology on a continuum linking mobile to wearable to implantable innovations as a seemingly necessary, immenent, and determined future (Pedersen 2008, 2013). **I made the argument that this is a ruse that contributes to a constant mediatization of lifestyle**"* (p. 22).
+
+Curious to see how Pedersen uses mediatization as something, presumably different, than mediation as life is already mediated constantly. Her argument does not seem to address this.
+
+*"Because body networks are proposed so that sensory data can be collected automatically from internally implanted sensors, they will be a core conduit for further body surveillance. But, unlike Smith, I do not see a 'bordered' body anymore. When a person ingests the surveillance device into her organs, the border disappears"* (p. 35).
+
+For Pedersen, the body only becomes an open system at the point of ingesting, embedding, implanting, etc (see Thacker). Furthermore, Pedersen's concern about the form of this system as a distinct body is determined by the politics of privacy, surveillance, and data commodification. While I agree that the body is not bordered, I do not think that this occurs only at the point of ingesting biosensing technology. Again, Pederson's understanding of the borderless fails to consider the many ways that bodies mediate and are mediated (see Kroker) as an already-open-system.
+
+Thinking of the steady-state of the hormonal body as a closed system at a micro- or local-level fails to account for the sympoeitic growth of hormonal networks at the macro- or global-level. 
 
 
 ## Losh, Elizabeth and Jacqueline Wernimont. *Bodies of Information: Intersectional Feminism and Digital Humanities.* Minnesota UP, 2018.
