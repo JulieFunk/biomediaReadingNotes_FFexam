@@ -1,5 +1,14 @@
 # Bodies, Media, Systems Notes Log
-**Last updated: February 4, 2021**
+**Last updated: February 7, 2021**
+
+## Wolfe, Cary. *What is Posthumanism?*, Minnesota UP, 2010.
+
+*"This is what Derrida had in mind (and more, as we are about to see) in his criticism of a 'biological continuism, whose sinister connotations we are well aware of,' one that ignores 'the abyssal rupture' between human and nonhuman life, but also* within *and* between *different forms of nonhuman and animal life* (p. 83)
+
+*"Instead, Derrida insists that 'the modern possibility of the photograph joins, in a single system, death and the referent.' What he means by this rather enigmatic formulation is a kind of spectrality inheres in the technology of the image because of its fundamental iterability:
+    'Because we know that, once it has been taken, captured, this image will be reproducible in our absence, because we know this* already, *we are already haunted     by this future, which brings our death"* (p. 92).
+    
+Derrida sees mediation as a iterably system in which semiotic connection to referents which cannot be erased, not only despite its iterability, but **because** of it (remediation in Bolter and Grusin's language). For Derrida, through Wolfe's analysis, biometrics and their various interfaced manifestions of wearable, embeddable, ingestible, implantable will, of course, always point back to the referent subject, the body, despite it's potential growth and acceleration via big data practices (as discussed in Behar). But, is this true of other material mediations that are not measured, tracked, and traced (see Derrida's "trace"). Do hormonal media that externalize through my body and meet other bodies ("Toxic Sexes") always carry a referent of myself as subject? Do hormonal profiles that come from mares to develop synthetic HRT always carry the referent of the mutispecies with them ("Awash in Urine"). Ahi-King and Hayward, and Haraway argue that they do. Ecologies of "our" hormones are always mediating through the other's body and vice versa. In this trace of the referent, the production and mantainance (to use Stone's words) of the discursive subject is its potentional accumulation of hybridity beyond species boundary and beyond the boundaries of data-medium. This is not to argue that "biological continuism" links all species and all materialities together on the same political plane, clearly humans remain the dominant political producers and organizers in our anthropocentric ontoepistemological projects. Further, much of the hormonal sharing that goes on inter-species, and even intra-species has little known, if any, effect on other biological bodies with some major exceptions such as procreation. However, this doesn't mean there is a rupture the **networked affect** between species and between nonhuman and animal life.
 
 ## Pedersen, Isabel and Andrew Illiadis. *Embodied Computing: Wearables, Implantables, Embeddables, Ingestbles.* MIT Press, 2020.
 
