@@ -1,5 +1,32 @@
 # Bodies, Media, Systems Notes Log
-**Last updated: February 7, 2021**
+**Last updated: February 10, 2021**
+
+## *subRosa “Common Knowledge and Political Love,” in Tactical Biopolitics*. 2008. pp. 221-242.
+
+*"It follows, then, that bodies are also primary sites of sovereignty, resistance, and contestation. In this chapter, subRosa begins by tracing a brief
+history of lay or “common” medical, and healing practices that posed an embodied resistance to religious, medical, and capitalist control of gendered bodies, reproduction, and medical practices—and connects them to current social struggles to create accessible and just public health-care systems, biopolitical autonomy..."* (p. 222)
+
+*"As Federici sees it, biopower is rooted in the context of the rise of capitalism"* (p. 222)
+
+*"subRosa suggests that the millions of dollars spent by **consumers** on these 'beauty treatments' would be put to better use combating the chief killers of women
+worldwide: heart disease, AIDS and other infectious diseases, malnutrition, gender violence, poverty, neglect, and war."* (p. 225, emphasis added)
+
+- Issues of sovereignty of *the* body become complicated when one moves past thinking the body "individual" -- sovereignty of *a* body, any body (including one where the human body is made a part) then becomes a complex, networked, and multi-agentic issue (BwO?). This perspective can be seen as counterproductive to those that explicitly advocate for biopolitical autonomy (of the human body), but I think, on the contrary, it's a perspective that challenges us advocate for the biopolitical autonomy of all actors and their relations. This is a recurring limitation to subRosa's radical imagination and is most prominent in thier critique of consumers rather than a critique of how hegemonic patriarchal values are reproduced in both the commodities *and* consumers of (gendered) biomedical practices.
+
+*"Historically, women’s bodies have been notoriously resistant to machine adaptation or medical regulation. The unpredictable ebb and flow of menstrual cycles, hormones, moods, libido, weight loss or gain, metabolism, ovulation, pregnancy, gestation period, fertility, and natural birth rhythms, have severely tested scientific control and management methods."* (p. 226)
+
+- I'm skeptical of subRosa's use of "hormones" here. As all the other medicalized, embodied phenomena on this list are the effects of hormonal functions. The use of "hormones" does not even seem to be standing in for just "sex hormones and their functions" as is often found when pop hormones are invoked. So, what do the authors mean by "hormones" here? What do they signify?
+
+*"It is now possible to control and manipulate reproducing women because new technologies enable the surveillance of women’s “natural” pregnancy and birth processes through telepresent obstetrical monitoring and intervention."* (p. 227)
+
+- Indeed, Mira. So, are Mira babies cyborg babies? Are Mira users cyborg users? No. Per Haraway, cyborgs resist the patriarchy. Mira is predicated on a patriarchal history of optimization and efficiency as "advancement." It either claims to overcome disorder or to confirm it (without offering support - creating the Homo Sacer user)
+
+*"Western pharmaceutical prospectors and bioprospectors are busy pirating and exploiting this traditional knowledge—often in less industrially developed countries
+whose populations cannot easily defend themselves against big corporations. Ironically, the patents filed by pharmaceutical companies on plants and drugs “discovered” on bioprospecting forays have the effect of further suppressing dissemination of common knowledge, and criminalize the sharing and development of indigenous practices and selfcare—often with lethal results."* (p. 233)
+
+- Ecologies of distribution: colonial construction of environments (autopoeisis)- pitted against co-construction (sympoeisis) position the environment as both resource and antagonist (see Bugsnax - the game's environmental critique comes at the cost of unimaginative colonial discourse)
+
+
 
 ## *Body Drift: Butler, Hayles, Haraway*, Arthur Kroker. 2012.
 
