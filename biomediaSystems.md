@@ -30,9 +30,14 @@ whose populations cannot easily defend themselves against big corporations. Iron
 
 ## *Body Drift: Butler, Hayles, Haraway*, Arthur Kroker. 2012.
 
-*"There is no longer, if there ever was, a single, binding, universal history of the body, nor is it possible to speak today of the body as a cohesive singularity . . . Body drift refers to the fact that we no longer inhabit *a* body in any meaningful sense of ther term but rather occupy a multiplicity of bodies--imaginary, sexualized, disciplined, gendered, laboring, technologically augmented bodies. Moreover, the codes governing behaviour across this multiplicity of bodieshave no real stability but they themselves are in drift--random, fluctuating, changing." (p. 2)*
+*"While the privileged language of genomics might anticipate a future of delirious genetic engineering, the political reality today is that the future of genomics is itself challenged by religious concerns with the sanctity of the body"* (p. 1)
 
-- Kroker has taken on the formidable task of contending with three seminal feminist thinkers in the contemporary Western tradition. Kroker traces each of Butler's, Hayles', and Haraway's novel refusals of genealogies of gender and sexuality, computational chaos and order, and the violence of capital-colonial scientific thinking (turns which push these three thinkers from the traditions of the postmodern [via groundwork in Nietzsche, Heidegger, and Marx] and toward the posthuman) in relation to their treatments of re-writing embodiment ontologies. In tracing these three thinkers' refusals of a genealogical treatment of the singular, human, material body, *Body Drift* foils its critique as it stands as its own, albeit incomplete, genealogy of posthuman embodiment.
+- Like my critique with Thacker's treatment of genomics in *Biomedia,* Kroker points to the politics of the body as genetically mediated/mutable through values of "sanctity" which are dependent on seeing the body as individual and contained within the flesh. Genomics as biomedia requires the body to be understood through liberal individualism.
+
+
+*"There is no longer, if there ever was, a single, binding, universal history of the body, nor is it possible to speak today of the body as a cohesive singularity . . . Body drift refers to the fact that we no longer inhabit* a *body in any meaningful sense of ther term but rather occupy a multiplicity of bodies--imaginary, sexualized, disciplined, gendered, laboring, technologically augmented bodies. Moreover, the codes governing behaviour across this multiplicity of bodieshave no real stability but they themselves are in drift--random, fluctuating, changing."* (p. 2)
+
+- Body drift is a posthuman condition in which bodies no longer have boundaries - this is an issue of indexing systems which are always changing.
 
 **Contingencies (Butler)**
 
