@@ -1,7 +1,22 @@
 # Bodies, Media, Systems Notes Log
-**Last updated: February 10, 2021**
+**Last updated: February 17, 2021**
 
-## *subRosa “Common Knowledge and Political Love,” in Tactical Biopolitics*. 2008. pp. 221-242.
+## Irrational Games. *BioShock*, 2K Games, remastered for macOS, 2017.
+
+- Rapture is presumed to be a closed loop system, isolated from other systems, until it’s not
+
+- protagonist Jack is a mediator coming in from outside the system but created within the system (endo and exo)
+
+- Connect further to endocrinology (the body mod is itself hormonal)
+
+- Can use biological “upgrades” to make it easier to hack your environment
+
+- Closed systems are abstracted as non-agental like Jack in Bioshock
+
+- Randian innovation/individualism as embodied
+
+
+## subRosa. “Common Knowledge and Political Love,” in *Tactical Biopolitics*, 2008. pp. 221-242.
 
 *"It follows, then, that bodies are also primary sites of sovereignty, resistance, and contestation. In this chapter, subRosa begins by tracing a brief
 history of lay or “common” medical, and healing practices that posed an embodied resistance to religious, medical, and capitalist control of gendered bodies, reproduction, and medical practices—and connects them to current social struggles to create accessible and just public health-care systems, biopolitical autonomy..."* (p. 222)
@@ -28,7 +43,7 @@ whose populations cannot easily defend themselves against big corporations. Iron
 
 
 
-## *Body Drift: Butler, Hayles, Haraway*, Arthur Kroker. 2012.
+## Arthur Kroker. *Body Drift: Butler, Hayles, Haraway*, 2012.
 
 *"While the privileged language of genomics might anticipate a future of delirious genetic engineering, the political reality today is that the future of genomics is itself challenged by religious concerns with the sanctity of the body"* (p. 1)
 
