@@ -28,6 +28,12 @@ DNA’, biomedia produces the biomediated body as a laboring body"* (p. 10)
 
 - Empirically, the endocrine system is inherently linked to the virtual - though indeterminate, it responds to affect and is biomediated by it. The superempirical (virtual) is lost when the endocrine system is made emprical/quantifiable - Think through this re: biometrics, Mira, Wearable Lab, etc. Labouring bodies of cells needs to be addressed re: *Tissue Economies*
 
+- Waste tissues are biomediated outside of flesh bodies - bodies change shape and composition. Bodies become technical - Is a lab a body? See Wearable Lab and Laboratory Life
+
+*"Biomedia, rather, is the infrastructure of a political economy which aims to continually transform informatic-based products, into ‘the long-term generation of information’ (Thacker, 2005: 80)."* (p. 10)
+
+- In this way bodies as informatic-based matter are made commoditity - but can biomedia resist political economy? --> Tsang, Mol (sort of)
+
 ## Waldby, Catherine and Robert Mitchell. *Tissue Economies: Blood, Organs, and Cell Lines in Late Capitalism*, 2006.
 
 *"Previous commentators have noted, but only in a cursory way, that the majority in the state supreme court discussed at some length the similarities between Moore's cells and human feces...This discourse focused on* valuable *human tissues, such as blood and organs, and linked the dissemination of these tissues to the smooth flow of information between management facilities (for example, hospitals and blood blanks); the absence of such information flows was purported to produce tissue waste in the form of expired blood and degraded organs"* (p. 90).
