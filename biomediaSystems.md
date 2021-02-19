@@ -1,5 +1,5 @@
 # Bodies, Media, Systems Notes Log
-**Last updated: February 17, 2021**
+**Last updated: February 19, 2021**
 
 ## Irrational Games. *BioShock*, 2K Games, remastered for macOS, 2017.
 
@@ -158,6 +158,11 @@ Thinking of the steady-state of the hormonal body as a closed system at a micro-
 
 - Behar uses obesity to think through "bloated" bodies of information and their collective, but amorphic organization against the techno-efficiencies of accelerationist ideals. Here, Berlant's language of 'spreading' and 'lubricating' points to the oozing of bodies across form and relations system (open systems).
 
+- From Clough: "From the larger perspective of political economy, the reduction of biology or life to DNA is rather a production of an excess of information.
+What has been referred to as **junk DNA,** for example, may be seen to be a block to the productivity of biomedia, or it might be better understood as the very noisy complexity out of which the demand for more efficient uses of data arises, a demand for the expansion of informatics" ("Affective Turn," p. 10)
+
+- How does the accumulation of shadow data (Coleman), junk information and waste tissues tell stories? Behar's radical reproduction of the body as data organization through decelerationist aesthetics refuses to "work" and refuses "efficiencies"
+
 ## Thacker, Eugene. *Biomedia.* Minnesota UP, 2004.
 
 *"Whether it be the use of biological data in protein prediction [bioinformatics]...or the use of biological function for non-biological purposes [biocomputing], ..the emphasis is less on 'technology' as a tool, and more on the technical reconditioning of the 'biological.' It is this assumption, and the twofold logic that extends from it, that characterizes the concept of 'biomedia.' **Put briefly, 'biomedia' is an instance in which biological components and processes are technically recontextualized in ways that may be biological or nonbiological.** Biomedia are novel configurations of biologies and technologies that take us beyond th familiar tropes of technology-as-tool or the human-machine interface"* (pp. 5-6).
@@ -165,7 +170,6 @@ Thinking of the steady-state of the hormonal body as a closed system at a micro-
 *"**The biological and the digital domains are no longer rendered ontologically distinct**, but instead are seen to inhere in each other; the biological 'informs' the digital, just as the digital 'corporealizes' the biological"* (p. 7).
 
 *"...biomedia is based on a particular type of organization...it is not based on the technical metaphor of the 'interface,' in which parts identified according the substance are combined into some hybrid or cyborg-like form...the biological body never stops being biological..; it is precisely for that reason that the biological body is inextricably 'technological'"* (p. 14).
-
 
 - Thacker provides numerous, almost manifesto-like, definitions of what biomedia are (and are not). He tells us that biomedia are not hybridizations of the biological and the digital of cyborg-like transhumanist and extropian ideals. The biological body, which is not necessarily a human body, is already technological as a biological system. It can be encoded, recoded, and decoded. Thacker's definitions of biomedia are general enough that they do not necessarily refer to a mediation or encoding of the biological to the digital, or vice-versa. Nor, does biomedia refer distinctly to genomics and an understanding of DNA as "code." **This makes biomedia an appropriate organization of endocrinological (and exo!) phenomenology encoded and affected through various mediations. However, Thacker's examples inevitably return to bioinformatics and genomics.
 
@@ -178,3 +182,7 @@ Thinking of the steady-state of the hormonal body as a closed system at a micro-
 *"**Systems theory is a conscious respons to the dominant paradigm of gene centrism in biotech.** In place of the emphasis on genes, it offers an emphasis on interactions between molecules. In place of the emphasis on things, it offers relations. In place of the emphasis on substance, it offers network and pathways of behavior...However in offering this alternative, it does not take into accound the larger philosphical issues it opens up, namely the incommensurability between the self and the network, between the body and system. **Curiously, it opens onto a nonhuman view of the biomolecular body, one fundamentally at odds with the subject-based, human view of genetic medicine"*** (pp. 173-4)
 
 - Again, it seems that Thacker's generalization of biomedia and systems theory is caught up in the specificity of genomic practices, despite his claim that "it offers an emphasis on the interactions between molecules" and not genes. Philosophical questions around genetics have trouble escaping post-Enlightenment ideals of the human as a liberal individual subject. DNA promises an encoding of individuality and there is little room for what might be seen as mutation through input/output (i/o) patterns of interaction with bodies in their environments (open-system Systems Biology). From an epigenetic perspective, unless networking longitudinal systems of genetic "vitality" (a term Thacker already rejects) through inheritance, genetics cannot seem to escape pointing back to the system-as-self. Endo/exocrine relations on the otherhand ooze and leak into their environments. Their encodings, recodings, and decodings occur in patterns of relations through multispecies.
+
+- From Clough: "In keeping so tight a focus on DNA, Thacker misses that it is in terms of these complexities, and the desire to appropriate the capacity to mutate or create, that the biomediated body challenges autopoiesis, characteristic of the body-as-organism" ("Affective Turn, 11).
+
+- Thacker's focus DNA as autopoietic serves as reinforcing a biological component of "subject-making" in through the politics of liberal individualism.
