@@ -1,1 +1,0 @@
-# biomediaReadingNotes_FFexam
