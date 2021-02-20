@@ -1,7 +1,38 @@
 # Economies of Hormonal Disruption Log
-**Last updated: February 19, 2021**
+**Last updated: February 20, 2021**
 
-## Clough, Patricia T., "The Affective Turn Political Economy, Biomedia and Bodies," *Theory, Culture & Society* vol. 25, no. 1, 2008, pp. 1-22
+## Berlant, Lauren. “Slow Death: Soverignty, Obesity, Lateral Agency,” *Critical Inquiry*, vol. 33, no. 4, 2007, pp. 754-780.
+
+*"The difference between sovereign agency under a regime of sovereignty and under a regime of biopower, then, can be thought of as a distinction between individual life and collective living on, where living increasingly becomes a scene of the administration, discipline, and recalibration of what constitutes health....Because of these convolutions and variations sovereignty is an inadequate concept for talking about human agency outside of the power of the king’s decree or other boundary acts in proximity to certain performances of law..."* (p. 756)
+
+- Biopower is also the power to make waste into product - see Waldby & Mitchell, Clough "junk DNA"
+
+- Administration, discipline, and recalibration as outsourced to personal technological data managers and visualizers (i.e., wearables). This reaffirms subjugation as it presumes individuals must be responsible for managing their own health under a collective authority that doesn't do the labour of management, but still enforces it
+
+*"But we need better ways to talk about activity oriented toward the reproduction of ordinary life...Indeed, practical sovereignty would be better understood not to take the mimetic or referred shape of state or individual sovereignty but a shape made by mediating conditions of zoning, labor, consumption, and governmentality, as well as unconscious and explicit desires not to be an inflated ego deploying and manifesting power."* (p. 757)
+
+*"Environment denotes a dialectical scene where the interaction reified as structure and agency is manifest in predictable repetitions; an environment is made via spatial practices and can absorb how time ordinarily passes, how forgettable most events are, and, overall, how people’s ordinary perseverations fluctuate in patterns of undramatic attachment and identification"* (pp. 759-760).
+
+- Berlant does not wholesale refuse "sovereignty" but finds it is not capable of capturing its role in "the reproduction of [biopower in] ordinary life". Instead, Berlant points to a practical sovereignty and **lateral agency** which better points to environments of networked agency/causality in which obesity is endemic
+
+- Slow death occurs in envrionments -- See, Ahi-King, Szczygielska, Gowdy's *The White Bone*. Berlant uses "environment" rather than "event" to describe space temporally, understanding that environment is dialectic and vibrant, even volatile.
+
+*"Finally, what does it mean that African Americans and Latino/as are especially bearing this body burden
+along with the symbolic negativity long attached to it, so much so that one physician, a member of the Black Women’s Health Network, observes that the “most lethal weapon” against black people in the contemporary U.S. is the fork?"* (p. 765)
+
+*"In the initial justification for action by an administration dedicated to
+shrinking the domestic government as a resource for the socially, physically,
+or economically disabled, we get images of stressed-out, overworked bodies responding biologically by hoarding even healthy food in the body’s fat stores. This physiology of stress is translated into increasing anxieties about the healthcare costs that businesses have to face."* (p. 768)
+
+*"The explanation from genetic predisposition often attempts to deshame individuals for their body size / mental state and to release them from paralyzing burdens of responsibility for it, to be substituted for by wellintended medicalization."* (p. 771) 
+
+- Individual blame - posits Black women as self-harming  while not acknowledging environmental (qua political) stresses https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.118.005284 
+
+- Hormonal response to labour and political economy! Agency within and around the body
+
+- Ex. of genetics constructing the subject rather than acknowledging that obesity and other health epidemics are actually endemic of networked, environmental failures to support lateral agency - not sovereignty over bodies that are determined simply by flesh borders
+
+## Clough, Patricia T. "The Affective Turn Political Economy, Biomedia and Bodies," *Theory, Culture & Society*, vol. 25, no. 1, 2008, pp. 1-22
 
 *"However, the turn to affect did propose a substantive shift in that it returned critical theory and cultural criticism to bodily matter which had been treated in terms of various constructionisms under the influence of post-structuralism and deconstruction. The turn to affect points instead to a dynamism immanent to bodily matter and matter generally – matter’s capacity for self-organization in being in-formational – which, I want to argue, may be the most provocative and enduring contribution of the affective turn."* (p. 1)
 
