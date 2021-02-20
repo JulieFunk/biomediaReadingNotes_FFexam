@@ -1,6 +1,41 @@
 # Economies of Hormonal Disruption Log
 **Last updated: February 20, 2021**
 
+## Mol, Annemarie. *The Logic of Care: Health and the Problem of Patient Choice*, Routledge, 2008.
+
+*"Are 'we', in the 'West', indeed autonomous individuals? The answer is: no, 'we' are not...Some sociologists have studied how in actual practice people in 'free societies' make their choices. They have found that making choices takes a lot of energy, energy that not everybody has to spare or likes to spend on it. They have also found that 'we' end up choosing remarkably similar things. Indeed some scholars have argued that autonomy is not the opposite of heteronomy at all. Instead, they say, making people long for choices and investing in them is a disciplining technique." (p. 4)*
+
+*"The West is not simply Enlightened. It does not just celebrate rationality, autonomy and choice, but has a rich and multi-layered care tradition as well." (p. 5)
+
+*"The scientific tradition that is currently most prominent in health care--that of clinical epidemiology--has not been designed to deal with the unexpected effects of interventions." (p. 99)*
+
+- Mol starts her critique by pressuring the 'Western' tradition of certain Enlightenment ideals which favour traits like rationality, autonomy of the person, and choice. However, these values, as Mol argues, are not the sole ideals espoused in Enlightenment philosophy and there has been an erasure of traditions of care in classical liberalism. Not only does the fixing of certain ideals in time and politic make for ideaological thinking, this also becomes problematic for Mol as the medical sciences have based their practices on many of these fixed Enlightenment ideals in their methodolofy which makes medical philosophy ill-suited to face the unexpected and turbulant nature of patient life that comes into play in clinical practice. This is why Mol suggests a 'logic of care' is necessary in (specifically diabetes) clinical treatment.
+
+- Mol looks presents two competing logics, the 'logic of care' and the 'logic of choice' present in her ethnographic accounts of diabetes treatment and management in on hospital's outpatient clinic in the Netherlands. For Mol, the logic of choice, while an ethical step of from medical paternalism (often seen as forced treatment plans/no options), often ends up rejecting patients lived experiences in its two manifestations: a consumerist logic of choice which centres patient-as-customer, and thereby sells treatment as products without the dialogic process of care, and a civic logic of choice that centres patient-as-citizen which figures the patients' rational accounts of their experiences as removed from the body which can prove counterproductive to treating diseases of the body ("...citizens have to control, tame or transcend their bodies so as to be able to choose" (p. 47))
+
+- Instead, the logic of care is a process (p. 20) which requires open and active dialogue from both doctor and patient, as well as mutual responsibility and expertise (the patient is the expert of their own lives/experiences). The care process is unstable, complex and sometimes unweildy, it "involves a team (of professionals, machines, medication, **bodies**, patients, and relevant others) and tasks are divided between members of that team in ever-changing ways" (p. 21, emphasis my own). While Mol's 'logic of care' often privileges the discourse of *embodiment* and *lived experience*, it is interesting that she often highlights the "body" as something seperate from disease or the patient themselves. In this way, Mol subscribes to the Cartesian language of mind/body split which undermines the logic of care's networked approach to living with chronic illness. 
+
+- Further, Mol claims her work is in "unravelling" of languages, styles and genres (p. 91). However, as a critical discourse analysis Mol in fact does not deeply interrogate language in the cultural world of clinical diabetes treatment. Rather, she employs loose and floating terminology such as "health" and "healthy" to signify good care without critically addressing the vacuous social baggage behind what it means to be "healthy."
+
+*"Yes, this is exactly what the logic of care wants you to do. In order to take care of yourself, you may need to deviate."
+
+- The logic of care embraces compassionate deviancy over rigid 'normalcy.'
+
+*"[The patient's] diabetes nurse explained how to use a monitor a long time ago. But even so, there is something more troubling about presenting a blood sugar monitor as a separate sellable product, disentangled from the care process in which it is embedded...The market requires that some product (device, plus skills training, plus kindness and attention) is delineated as the product on offer. A lot may be included in this product, but what is on offer and what is not has to be specified." (p. 20)
+
+*"Whichever the form of diabetes, the care process supplements the failing internal feedback system with one which is partially external." (p. 21)
+
+*"When you have injected insulin, blood sugar levels decrease as the cells burn up or stock the sugar they can now absorb. As blood sugar levels get lower, **bodies** without diabetes start to produce glucagon which releases the body's sugar supplies. In **people** with diabetes, this counter-regulation does not work properly." (p. 50)*
+
+- In the logic of care, learning how to *care for a product* (i.e., proper usage of technology) is part of learning how to *care for a patient*. The product offered must include support to care for the material/commercial elements of the treatment. The patient and the technology are collectively networked in this way. Per Mol's description, the condition of diabetes requires *conscious externalization* of endocrinological feedback system - making it almost exocrine.
+
+- From Berlant's "A Slow Death": "Antidepression and antiobesity initiatives both seek to orchestrate a translocal, collective environment for personal social change, involving families, friends, teachers, colleagues, and medical professionals" (pp. 769-770).
+
+*"Technologies in treatments are taken to be 'means'. They serve an end...Countering a simplified belief in 'science' as the answer to all questions, the logic of choice stresses the multiplicity of medical possiblities. This makes good sense. In its turn, however, the logic of choice simplifies the relation between means and end. It suggests that, if you choose where you want to go, your technologies will get you there, However, in the consulting room, it quickly becomes clear that technologies are not obedient means: they rarely subordinate themselves to their official ends." (pp. 54-55)*
+
+- In her critique of oversimplifying science and technology as a 'means to end' in the logic of choice, Mol perhaps adopts a Heideggerian view of medical ontology. Here, the logic of choice sees patient and their tools not as integrated prosthetics in a network of activity, but as isolated objects that are 'present-at-hand.' In the logic of care, the technologies are integrated into all aspects of the life, sociality, history, etc., of the patient and fit into a ready-to-hand ontology of diabetes treatment. In fact, it may be that it is not until the logic-of-choice's 'present-at-hand' ontology fails (eg., blood glucose monitors are too bulky, the buttons are too small, test strips for that brand are too expensive/not covered by a patient's insurance), that the technology is then characterized by its 'unreadiness-to-hand.'
+
+
 ## Berlant, Lauren. “Slow Death: Soverignty, Obesity, Lateral Agency,” *Critical Inquiry*, vol. 33, no. 4, 2007, pp. 754-780.
 
 *"The difference between sovereign agency under a regime of sovereignty and under a regime of biopower, then, can be thought of as a distinction between individual life and collective living on, where living increasingly becomes a scene of the administration, discipline, and recalibration of what constitutes health....Because of these convolutions and variations sovereignty is an inadequate concept for talking about human agency outside of the power of the king’s decree or other boundary acts in proximity to certain performances of law..."* (p. 756)
@@ -17,18 +52,20 @@
 
 - Slow death occurs in envrionments -- See, Ahi-King, Szczygielska, Gowdy's *The White Bone*. Berlant uses "environment" rather than "event" to describe space temporally, understanding that environment is dialectic and vibrant, even volatile.
 
+*"In short, everyday more and more advice circulates about how better to get the fat (the substance and the people) under control"* (p. 763)
+
+*"In the initial justification for action by an administration dedicated to shrinking the domestic government as a resource for the socially, physically, or economically disabled, we get images of stressed-out, overworked bodies responding biologically by hoarding even healthy food in the body’s fat stores. This physiology of stress is translated into increasing anxieties about the healthcare costs that businesses have to face."* (p. 768)
+
+- Metabolic control, insulin, leptin, and oestrogen. To control the composition of the people-as-system is to control the management of mediating chemical processes - to attempt to mediate differently, more *efficiently*
+
+- Hormonal response to labour and political economy! Agency within and around the body
+
 *"Finally, what does it mean that African Americans and Latino/as are especially bearing this body burden
 along with the symbolic negativity long attached to it, so much so that one physician, a member of the Black Women’s Health Network, observes that the “most lethal weapon” against black people in the contemporary U.S. is the fork?"* (p. 765)
-
-*"In the initial justification for action by an administration dedicated to
-shrinking the domestic government as a resource for the socially, physically,
-or economically disabled, we get images of stressed-out, overworked bodies responding biologically by hoarding even healthy food in the body’s fat stores. This physiology of stress is translated into increasing anxieties about the healthcare costs that businesses have to face."* (p. 768)
 
 *"The explanation from genetic predisposition often attempts to deshame individuals for their body size / mental state and to release them from paralyzing burdens of responsibility for it, to be substituted for by wellintended medicalization."* (p. 771) 
 
 - Individual blame - posits Black women as self-harming  while not acknowledging environmental (qua political) stresses https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.118.005284 
-
-- Hormonal response to labour and political economy! Agency within and around the body
 
 - Ex. of genetics constructing the subject rather than acknowledging that obesity and other health epidemics are actually endemic of networked, environmental failures to support lateral agency - not sovereignty over bodies that are determined simply by flesh borders
 
