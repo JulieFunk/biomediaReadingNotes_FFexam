@@ -1,6 +1,31 @@
 # Economies of Hormonal Disruption Log
 **Last updated: March 3, 2021**
 
+## Preciado, Paul B. *Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era*, Trans. Bruce Benderson, Feminist Press, 2013.
+
+*"Only the strict relationship between my body and the substance is a cult object [on Preciado's recording of T administration with masturbation], an object of surveillance. I spread the gel over my shoulders. First instant: the feeling of a light slap on the skin. The feeling changes into one of coldness before it disappears...How can I explain what is happening to me? What can I do about my desire for transformation?"* (p. 21)
+
+In Preciado's ritualistic application of T, **the medium is literally the massage.** Along with hormonal application, Preciado is opening his body to accept possession, hauntologies of the the lives lost to trans violence and alienation. The exchange of chemicals, substances, from outside the body to inside the body is both material and symbolic. Further, the ritual is mediated and remediated through the act of filming and uploading to trans forums and archives on the internet.
+
+*"During the twentieth century, the 'invention' of the biochemical notion of the hormone and the pharmaceutical development of synthetic molecules for commercial uses radically modified traditional definitions of normal and pathological sexual identities." (p. 26)
+
+*"...The invention of the contraceptive pill, the first biochemical technique enabling the seperation between heterosexual practice and reproduction, was a direct result of the expansion of endocrinological experimentation...In 1957, Searle & Co. commercialized Enovid, the first contraceptive pill ("the Pill") made of a combination of mestranol and norethynodrei. First promoted for the treatment of menstrual disorders, the Pill was approved for contraceptive use four years later."* (p. 28)
+
+*"Pharmacopornographic biocapitalism does not produce things. It produces moveable ideas, living organs, symbols, desires, chemical reactions, **and affects.** In the fields of biotechnology and pornocommunication, there are not objects to produce; it's a matter of* inventing *a subject and producing it on the global scale"* (p. 54, emphases added)
+
+*"The real stake of capitalism today is the pharmacopornographic control of subjectivity, whose products are serotonin, techno-blood, and blood products, testosterone, antacids, cortisone, techno-sperm, antibiotics, estradiol, techno-milk, alcohol and tobacco, morphine, insulin, cocaine, living human eggs, citrate of sildenafil (Viagra), and the entire material and virtual complex participating in the production of mental and psychsomatic states of excitation, relaxation, and discharge, as well as those of omnipotenceand total control."* (p, 39)
+
+The pharmacopornographic era mediated bodies through biopolitical economies that both "make" and "cure" disorders. See Mira. This is part of pharmacopornographic biocapitalism's production of subjects. **Perturbations** both (re)produce the pharmacopornographic subject but can also radically reimagine these power structures through (re)distribution and disruption of the biopolitical economy of discharge, secretions, and leaks. *"[Technoscience as a material-discursive authority is] manifest in the commercial chemical substances and molecules, biotype bodies, and **fungible technological goods** managed by multinationals."* (p. 34)
+
+*"[Safety Instructions for Users of TESTOGEL 50 mg, gel in sachets] Possible transference of testosterone. Failing to follow recommended safety instructions may cause the transfer of testosterone onto another individual during intimate and prolonged cutaneous contact with the area to which the gel has been applied."* (p. 59)
+
+*"In the case of testosterone, controls over the 'passage of the substance' seem more complicated, not only because it is liable to be sold on the black market and consumed without a prescription, but especially because Testogel applied to one body can 'pass' imperceptibly onto another body through skin contact Testosterone is one of the rare [implied illicit] drugs that is spread by sweat, from skin to skin, body to body"* (p. 65)
+
+Hormones are boundary passing and can easily be shared intimately. This cannot be controlled or surveilled in praxis as Preciado mentions in the following paragraph. However, trans visibility *is* very much surveilled as a person "panopticon" as Malatino writes (*Trans Care*, p. 26).
+
+
+
+
 ## Malatino, Hil. *Trans Care*, Minnesota UP, 2020.
 
 *"The boundaries between who is a carer and who is a recipient of care are pretty radically blurred in [t4t 'voluntary gender work']...any act of care is simultaneously an act of maintaing those minimal networks of support that sustain you...The language of 'compassion fatigue' or 'vicarious trauma' becomes challenging here. Compassion--the experience of deep sorrow or sympathy for the suffering of an other--is inadequate affective accounting of what transpires when a community or collective is involved in acts of caring and being cared for that are infomred by similar and mutually resonating forms of traumatization."* (p. 24)
@@ -9,7 +34,7 @@ Like Mol's account of caring, Malatino bases care in a feminist (though distinct
 
 Malatino, like Mol, also writes with a tendency to see care as an act towards "heal[ing]" (p.2) or to be "healthy" (Mol). In these moments both of the authors, = optimistically, approach care as a means to an end in which healing is possible. But total healing or "health" is not always possible, and care is often an ongoing collaborative project amongst many actors over long periods of time. The notion that one could be healed if cared for *enough* or in *the right ways* operates through a neoliberal logic that bodies can be made socially and economically productive if enough labour, in this case care labour, is put into the project of health. For many bodies "healing" or "full health," at least by clincal standards, is simply not possible.
 
-In this way, care is sharing hormones, not just through material exchanges of pharmaceutical treatments (Preciado's Testogel, birth control pills), but literally through bodies that produce affect and emphathy, whose hormonal profiles in these moments can allow a body to both give care and recieve care.
+In this way, care is sharing hormones, not just through material exchanges of pharmaceutical treatments (Preciado's Testogel, birth control pills), but literally through bodies that produce affect and emphathy, whose hormonal profiles in these moments can allow a body to both give care and recieve care. This is true ritually and symbolically for Preciado (see *Testo Junkie*, pp. 20, 65).
 
 *"Each day, my social media feed is populated with requests for rent money, for money to keep the power on, fur funds to repair a car, or to fund some other necessary expense that ensures minimal forms of survival. Sometimes, I can throw money at these requests. Sometimes, the most I can do is commiserate in frustrated empathy. Both of these responses are trans care praxis. We turn to social media for support that is simultaneously fiscal and affective, simultaneously practical (for advice about physicians, knowledge about underresearched side effects of exogenous hormones, about what clinics operated on an informed consent model, to seek legal advice) and ephemerally affirmative.."* (p. 66)
 
