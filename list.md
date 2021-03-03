@@ -27,11 +27,9 @@
   Society*, 2008, Vol. 25, No. 1, pp. 1-22 (Secondary).
 - Jordan-Young, Rebecca M. and Katrina Karkazis. *Testosterone: An Unauthorized Biography*, 
   Harvard UP, 2019 (Secondary).
-- Latour, Bruno and Steve Woolgar. “From Order to Disorder,” *Laboratory Life: The Construction 
-  of Scientific Facts*, Princeton UP, 1986, pp. 15-42 (Secondary).
-- —. “The Construction of a Fact: The Case of TRF(H),” *Laboratory Life: The Construction of 
+- Latour, Bruno and Steve Woolgar. “The Construction of a Fact: The Case of TRF(H),” *Laboratory Life: The Construction of 
   Scientific Facts*, Princeton UP, 1986, pp. 105-150 (Secondary).
-- Malatino, Hil	“Biohacking Gender: cyborgs, coloniality and the pharmacopornographic,” *Angelaki*, Vol. 22, No. 2, 2017, pp. 197-190 (Secondary).
+- Malatino, Hil. *Trans Care*, Minnesota UP, 2020. (Secondary).
 - Mbembe, Achille. “Necropolitics,” Trans. Libby Meintjes, *Popular Culture*, Vol. 15, No. 1, 
   2003, pp. 11-40 (Secondary).
 - Mira. “Mira Smart Fertility Device” *Quanovate Tech Inc*, 2018 (Primary**).
