@@ -30,7 +30,7 @@
 - Latour, Bruno and Steve Woolgar. “The Construction of a Fact: The Case of TRF(H),” *Laboratory Life: The Construction of 
   Scientific Facts*, Princeton UP, 1986, pp. 105-150 (Secondary).
 - Malatino, Hil. *Trans Care*, Minnesota UP, 2020. (Secondary).
-- Mbembe, Achille. “Necropolitics,” Trans. Libby Meintjes, *Popular Culture*, Vol. 15, No. 1, 
+- Mbembe, Achille. “Necropolitics,” Trans. Libby Meintjes, *Public Culture*, Vol. 15, No. 1, 
   2003, pp. 11-40 (Secondary).
 - Mira. “Mira Smart Fertility Device” *Quanovate Tech Inc*, 2018 (Primary**).
 - Mol, Annemarie. *The Logic of Care: Health and the Problem of Patient Choice*, Routledge, 2008 
