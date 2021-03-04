@@ -11,7 +11,20 @@
 
 *"One would think an authoritative source such as the US National Library of Medicine (NLM) might be more accurate in [communicating testosterone's mulitple forms, contexts, and roles], but its public education site defines testosterone as 'a hormone made mainly in the testes (part of the male reproductive system). It is needed to develop and maintain male sex characteristics...' There are a number of problems here, the most glaring of which is that this supposedly 'male sex hormone' is not sex-specific: it is also produced in healthy ovaries and adrenal glands, anbe by conversion from peripheral tissues."* (p. 24)
 
+*"Researchers were keenly interested in the development of sex, which they understood to be dimorphic. So they invented the concept of 'androgen,' a substance that stimulated what they considered male-typical effects, and 'estrogen,' which stimulated what they considered female-typical effects"* (p. 41).
+
 - Official medical resources perpetuate the monolithic charicature of sex hormones as **mediators of gender.*** This is not entirely true. While some steroid hormones (the biochemical structure what we call "sex hormones" take), do produce gendered traits and somatic processes in bodies, this is not their only function. Further, steroids like testosterone and estrogen are present in all human bodies (barring endocrinological hypoproduction) and they take multiple forms, **mediating and remediating not only in structure but into entirely different chemicals through cascading effects. Hormones practice transmedia. For example, DHEA may remediate itself into testosterone before eventually becoming estradiol**(p. 25, 40).
+
+- Both estrogen and testosterone transform from the steriod hormone DHEA which is a biochemical precursor to both of the traditional "sex hormones." In one type of cascade effect, testosterone is a necessary preform to estrogen.
+
+- T might also be dependent on reception, that is receptors, where "receptor memory" may play a role in how much sensitivity the body has to testosterone levels. Ex. women with high T levels but no or very few visible signs (p. 32). Again, the medium must be "massaged" to be recognized by receptors. If one is already getting daily massages, getting the 100th massage may no feel as good as the getting the first.
+
+*"Until fairly recently, almost all scientists studied T as if it were an independent actor whose levels alone might predict some trait of behavior, usually something that is culturally coded as masculine...It is now common in studies of aggression or risk-taking to look at T together with cortisol, often called the stress hormone, based on the idea that cortisol modifies or moderates T's effects"* (p. 31).
+
+*"When you take it in it's material specificity, T breaks into a thousand pieces"* (p.33)
+
+- Hormones like T are not independent actors. They are networked and reliant on cascades of affect.
+
 
 
 ## Preciado, Paul B. *Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era*, Trans. Bruce Benderson, Feminist Press, 2013.
