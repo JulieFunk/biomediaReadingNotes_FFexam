@@ -1,5 +1,57 @@
 # Economies of Hormonal Disruption Log
-**Last updated: March 3, 2021**
+**Last updated: March 4, 2021**
+
+## Cooper, Melinda E. “Life Beyond the Limits: Inventing the Bioeconomy,” *Life as Surplus: Biotechnology and Capitalism in the Neoliberal Era*, Washington UP, 2008, pp. 15-50 
+
+*"'...Each time, the old ideas about ‘limits,’ and the calculation of ‘finite resources’ within the bounds, were thereby falsified...Why shouldn’t the boundaries of the system from which we derive resources continue to expand in such directions, just as they have expanded in the past?' (Simon 1996, 66)"* (p. 18).
+
+- Politically right futurists who view the natural and biological as a cache of resources through an extractionist lens understand these material relations as a system with unclear, and everchanging boundaries. While I agree with this perspective in part; our material relations are indeed bounded, unbounded, and rebounded, they are done so through changing affective relations and mediations that require co-production and co-care through what Haraway calls response-ability to the material effects of these boundary shifts.
+
+*"My premise, as I have explained in the introduction, is that the emergence of the biotech industry is inseparable from the rise of neoliberalism as the dominant political philosophy of our time"* (p. 19).
+
+- This is one of the reason's I think Thacker's biomedia praxis is flawed. Biotechnology is inseperable from the rise of neoliberalism as the dominant political philosophy of our time. While biomedia in theory could afford radically new relations and mediations to biological materialism, Thacker's praxis seems to reproduce neoliberal sensibilities of biotechnology as a dominant mediation between the biological and the subject-in-making.
+
+*"Recent biology, I argue, is as much interested in the limits and possible futures of life on earth as contemporary capitalism. Any critique of the bioeconomy therefore needs to address itself to the intense traffic of ideas between recent theoretical biology and neoliberal rhetorics of economic growth"* (p. 20).
+
+- Ex. Tech-bro biohacker's aims always are to increase masculinity and productivity, reaffirming that Silicon Valley's environment sustains one type of employee-subject only.(Serge Fauget)[https://www.theguardian.com/science/2018/sep/21/extreme-biohacking-tech-guru-who-spent-250000-trying-to-live-for-ever-serge-faguet].
+
+- For other bodies, bioeconomies operate not by creating possible futures, but by foreclosing life altogether through neoliberal medical necropolitics (diabetes, forced sterilization, etc.) See (here)[https://www.sciencedirect.com/science/article/pii/S0168822716302467].
+
+*"Unlike petrochemicals, the fortunes of the pharma industry had long been based on patent protection and innovation monopolies...By the late 1970s, however, generics were beginning to flood the market while the rate of drug innovation had declined dramatically. Again, this downturn can be ascribed at least in part to the effects of growing public concern surrounding **the nonregulation of clinical trials (many of them conducted in prisons)** and the toxicity of certain wonder drugs"* (p. 22).
+
+- Fungibility of black lives, imprisoned lives as experimental or "waste" tissues that only have value in the hands of medical specialists who can produce "intellectual innovation and invention" (*Tissue Economies*).
+
+*"In essence, recombinant DNA (or genetic engineering) is a method that allows biologists to generalize the processes of bacterial recombination to the whole of organic life. Bacteria are able to exchange mobile elements of genetic information among themselves, and it is these elements (or vectors) that genetic engineering makes use of in order to create chimeric organisms...recombinant DNA allows biologists to move sequences of genetic information across the barriers of species and genus, transferring DNA from plants and animals to bacteria and back again."* (p. 33).
+
+- Through how many iterations do these sequences still bear referent to an origin? Ex. Jellyfish DNA in E. coli bacteria makes it luminescent. This has informed endocrinological chemical exhanges which seem to move through species with seeming ease. Ex. buying veterinary insulin for dogs and cats (lente insulin derived from cows and pigs) because it's more affordable than insulin marketed to humans (often derived from yeasts)
+
+
+## Mbembe, Achille. "Necropolitics," Trans. Libby Meintjes, Popular Culture, Vol. 15, No. 1, 2003, pp. 11-40
+
+*"To exercise sovereignty is to exercise control over mortality and to define life as the deployment and manifestation of power"* (p. 12)
+
+- Sovereignty over tissue economies must consider "dignity" but still exercises control otherwise. - Waldby & Mitchell
+
+*"The exercise of reason is tantamount to the exercise of freedom, a key element for individual autonomy. The romance of sovereignty, in this case, rests on the belief that the subject is the master and the controlling author of his or her own meaning. Sovereignty is therefore defined as a twofold process of self-institution and self-limitation (fixing one’s own limits for oneself)"* (p. 13)
+
+- And their own body. Though autonomy over bodies is not Mbembe's focus. However, in the endocrinological economy, depsite narratives that aim to control and make singular our understanding of hormones as individual, normative, or else commericially available for normalizing, hormones are multiple and do not recognize the boundaries of individualism.
+
+*"This control presupposes the distribution of human species into groups, the subdivision of the population into subgroups, and the establishment of a biological caesura between the ones and the others. This is what Foucault labels with the (at first sight familiar) term racism....Indeed, in Foucault’s terms, racism is above all a technology aimed at permitting the exercise of biopower, 'that old sovereign right of death'"* (p. 17)
+
+- This is true of gender, race, and medical disabilities, among other categorizations of human experience. These categorizations are never comprehensive. See Jordan-Young and Karkazis (subadrenal/subthyroidal). 
+
+- Note how death can look like management of life/reproduction --> Canada's forced sterilizations of Indigenous women.
+
+*"But more important, it is the very way in which necropower operates: 'The town belonging to the colonized people . . . is a place of ill fame, peopled by men of evil repute. They are born there, it matters little where or how; they die there, it matters not where, nor how...' In this case, sovereignty means the capacity to define who matters and who does not, who is disposable and who is not."* (pp. 26-27)
+
+- Not just towns, but communities of shared hormonal difference (non-normalcy) produce necropolitics:Trans and intersex groups, diabetics who are clinically morbidly obese. these degree to which these lives live under necropolitical power is compounded by the degree to which these lives are impoverished and racialized
+
+- A politics of sovereignty determines who is better suited to control tissues based on who has technological and intellectual access to make "waste" into "commodity." See *Tissue Economies*
+
+*"Correlated to the new geography of resource extraction is the emergence of an unprecedented form of governmentality that consists in the management of the multitudes. The extraction and looting of natural resources by war machines goes hand in hand with brutal attempts to immobilize and spatially fix whole categories of people or, paradoxically, to unleash them, to force them to scatter over broad areas no longer contained by the boundaries of a territorial state."* (p. 34)
+
+- Yes! Ecologies and colonization as resource extraction without consideration of resource redistribution and impact (See Ahi-King and Hayward, Cooper).
+
 
 ## Jordan-Young, Rebecca M. and Katrina Karkazis. *Testosterone: An Unauthorized Biography* Harvard UP, 2019.
 
