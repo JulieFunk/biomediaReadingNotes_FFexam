@@ -1,5 +1,28 @@
 # Economies of Hormonal Disruption Log
-**Last updated: March 4, 2021**
+**Last updated: March 5, 2021**
+
+## Weheliye, Alexander G. *Habeas Viscus: Racializing Assemblages, Biopolitics, and Black Feminist Theories of the Human* Duke UP. 2014
+
+*"The twin of the "modern human (Man)" is racializing assemblages. People are inherently understood by and through their position and relations within racializing assemblages...The particular assemblage of humanity under purview here is habeas viscus, which, in contrast to bare life, insists on the importance of miniscule
+movements, glimmers of hope, scraps of food, the interrupted dreams of freedom found in those spaces deemed devoid of full human life (Guan tanamo Bay, internment camps, maximum security prisons, Indian reser vations, concentration camps, slave plantations, or colonial outposts, for instance)"* (p.12).
+
+*"Habeas viscus accents how race becomes pinioned to human physiology, exposing how the politicization of the bi ological always already represents a racializing assemblage."* (p. 12).
+
+- Miniscule movements and affects make up the assemblage of humanity both through white supremecist organizations and in resisting them. Black markets, multispecies sharing, ecological sharing of hormones. Taking self-experimentation outside of medical patents and to the own body. Because this is a co-production. And lateral agency needs to be taken into account (Berlant).
+
+- Endocrinological sciences are historically racist sciences. See pg. 9 of Jordan-Young and Karkazis "..the Negro...subadrenal, the Mongol...subthyroid"
+
+*"Assemblages are inherently productive, entering into polyvalent becomings to produce and give expression to previously nonexistent realities, thoughts, bodies, affects, spaces, actions, ideas, and so on. The fecundidy of these becomings, what Deleuze and Guattari term machinic, however, ought not be cognized as unavoidably positive or liberating, particularly when set against putatively rigid structures such as race and colonialism, since assemblages transport potential territorializations as often if not more frequently than lines of flight: “The identity of any assemblage at any level of scale is always the product of a process (territorialization and, in some cases, coding) and it is always precarious, since other processes (deterritorialization and decoding) can destabilize it"* (pp. 46-47).
+
+- The endocrine/exocrine assemblages I'm attempting to identify and trace are a material reality. They are not always liberating, they are not always radical. Often they must be met with a care and responsibility that recognizes our own entanglement in the system without trying to exhort the sovereignty to "heal" in uniquely humanist and totalizing ways.
+
+- The twin of the "modern human (Man)" is racializing assemblages. People are inherently understood by and through their position and relations within racializing assemblages (see p. 8).
+
+*"Though Moore was not granted even partial proprietary ownership of the patented cell line derived from his spleen, the court did rule 'that the case was one of a breach of fiduciary duty and a lack of informed consent,' since the doctors who patented the cell line had not informed Moore of their maneuvers...'related to his rights of self-possession” or whether it represented “something different and artificial, belonging to its scientific makers. The court chose the latter, clearly influenced by the after-the- fact nature of the quandary'...Though the law has no problem adjudicating who can possess a body, and therefore full humanity, the highest legal authority in the United States cedes the field to corporate interests when confronted with 'choices...that define our essence'"* (p. 80).
+
+*"In other words, the normal order is differentially and hierarchically structured and does not necessitate a legal state of excep tion in order to fabricate the mere life of those subjects already marked for violent exclusion; in fact, we might even say that this is its end goal. In the contemporary United States, the prison-industrial complex functions as a racializing assemblage that dysselects black and Latino subjects, branding them with the hieroglyphics of the flesh"* (p. 86).
+
+- Agambenesque states of exception are not required to treat bodies as fungible resources. The current medical-legal-judicial axis of biopower does treat black bodies as fungible when they are in the hands of professional within systemically racist industries that can *turn* black bodies into something of value. See Henrietta Lacks and John Moore.
 
 ## Cooper, Melinda E. “Life Beyond the Limits: Inventing the Bioeconomy,” *Life as Surplus: Biotechnology and Capitalism in the Neoliberal Era*, Washington UP, 2008, pp. 15-50 
 
