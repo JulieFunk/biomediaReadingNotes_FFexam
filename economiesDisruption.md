@@ -1,7 +1,11 @@
 # Economies of Hormonal Disruption Log
-**Last updated: March 5, 2021**
+**Last updated March 6, 2021**
 
-## Weheliye, Alexander G. *Habeas Viscus: Racializing Assemblages, Biopolitics, and Black Feminist Theories of the Human* Duke UP. 2014
+## Mira. “Mira Smart Fertility Device” Quanovate Tech Inc, 2018.
+
+- Mira “personalized ovulation monitoring system”  promises a seemingly contradictory empowerment over one’s reproductive politics through an empirical surveillance that auto-indexes how likely you are to conceive based on the concentration of LH in your urine.
+
+## Weheliye, Alexander G. *Habeas Viscus: Racializing Assemblages, Biopolitics, and Black Feminist Theories of the Human* Duke UP. 2014.
 
 *"The twin of the "modern human (Man)" is racializing assemblages. People are inherently understood by and through their position and relations within racializing assemblages...The particular assemblage of humanity under purview here is habeas viscus, which, in contrast to bare life, insists on the importance of miniscule
 movements, glimmers of hope, scraps of food, the interrupted dreams of freedom found in those spaces deemed devoid of full human life (Guan tanamo Bay, internment camps, maximum security prisons, Indian reser vations, concentration camps, slave plantations, or colonial outposts, for instance)"* (p.12).
