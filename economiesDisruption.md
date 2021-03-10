@@ -1,5 +1,27 @@
 # Economies of Hormonal Disruption Log
-**Last updated March 6, 2021**
+**Last updated March 10, 2021**
+
+## Murphy, Michelle. "Chemical Regimes of Living," Environmental History, Vol. 13, No. 4, 2008, pp. 695–703.
+
+*"Cars, militarization, water, laws, the direction of a river, the price of oil, the properties of sand, the rise of neoliberalism, histories of colonial dispossession-are all part of a complex of molecular relations that extend outward in place, and into the past, as well as forward to uncertain futures"* (p. 696).
+
+- Ecologies of material molecular relations must be understood through neoliberal histories of colonial dispossession. In this way, Murphy is critical of molecular relations in a "chemical regime of living." But identifying the political economy is just the first step in thinking through what Adriana Petryna calls "biocitizenship" (p. 699). Ahi-King and Hayward present a different complex that rejects some of the panic around environmental dispossession of species - might be considered "biocitizenship" through a Harawayan response-ability.
+
+*"We are further altered by the pharmaceuticals imbibed at record-profit rates, which are then excreted half metabolized back into the sewer to flow back to local bodies of water, and then again redispersed to the populace en masse through the tap. In the twenty-first century, humans are chemically transformed beings"* (p. 696).
+
+- Murphy's use of "recomposed" can be understood through remediation and distribution in a media theory of hormones. This unbounded distribution helps remind us that endocrinology eventurally becomes exocrinology. Or rather, endocrine and exocrine distruptions cannot be treated as occuring in two exclusive environments.
+
+*"...the most important recent shifts in this chemical regime of living have been the intensification of consumption combined with the geographical extension of industrialized consumption to more and more of the world's people, thereby accelerating the rates and variety of toxic pollutants released. Second, while synthetic molecular relations are clearly the result of activities which generate capital, they also tend to be "externalized" material effects of production and consumption practices-that is, effects that are purposively posited as existing outside the accountability of corporations"* (p. 697).
+
+*"An example [of a biocitizenship project] might be the spread of bucket sampling-a technique that uses plastic buckets to capture the evidence of transient, night-time, or other hard to prove pollution episodes developed by environmental justice activists in the Louisiana petroleum corridor to communities in South Africa, India, Mexico, Canada, and other sites joined, not by a common nation-state, but rather by common conditions of dispossession created by mutual proximity to petrochemical processing. Ironically, bucket sampling turns the very products of the chemical industry - cheap plastic commodities - against them"* (p. 700).
+
+- An updated shift here might be personal biometric devices allow us to monitor certain aspects our own chemical profiles. These devices are made of the same materials and productions responsible for the chemical regime of living. In the case of Mira, the device has been reappropriated to to "turn the very products of the chemical industry...against them."
+
+- Outside corporations are externalized effects, but those effects become personalized and individualized through biometric tracking. This can be understood through what Sarah Lochlann Jain calls "commodity violence" (p. 698).
+
+*"Sarnia is home of the Aamjiwnaang First Nation, members of which have in turn used bucket sampling to document their exposure to endocrine disrupting chemicals that may be linked to a decade-long halving of the number of boys born"* (p. 701)
+
+- Refer to this example more: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1281269/
 
 ## Mira. “Mira Smart Fertility Device” Quanovate Tech Inc, 2018.
 
