@@ -5,7 +5,7 @@
 
 *"Cars, militarization, water, laws, the direction of a river, the price of oil, the properties of sand, the rise of neoliberalism, histories of colonial dispossession-are all part of a complex of molecular relations that extend outward in place, and into the past, as well as forward to uncertain futures"* (p. 696).
 
-- Ecologies of material molecular relations must be understood through neoliberal histories of colonial dispossession. In this way, Murphy is critical of molecular relations in a "chemical regime of living." But identifying the political economy is just the first step in thinking through what Adriana Petryna calls "biocitizenship" (p. 699). Ahi-King and Hayward present a different complex that rejects some of the panic around environmental dispossession of species - might be considered "biocitizenship" through a Harawayan response-ability.
+- Ecologies of material molecular relations must be understood through neoliberal histories of colonial dispossession. In this way, Murphy is critical of molecular relations in a "chemical regime of living." But identifying the political economy is just the first step in thinking through what Adriana Petryna calls "biocitizenship" (p. 699). Ah-King and Hayward present a different complex that rejects some of the panic around environmental dispossession of species - might be considered "biocitizenship" through a Harawayan response-ability.
 
 *"We are further altered by the pharmaceuticals imbibed at record-profit rates, which are then excreted half metabolized back into the sewer to flow back to local bodies of water, and then again redispersed to the populace en masse through the tap. In the twenty-first century, humans are chemically transformed beings"* (p. 696).
 
