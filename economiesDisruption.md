@@ -1,7 +1,7 @@
 # Economies of Hormonal Disruption Log
 **Last updated March 10, 2021**
 
-## Murphy, Michelle. "Chemical Regimes of Living," Environmental History, Vol. 13, No. 4, 2008, pp. 695–703.
+## Murphy, Michelle. "Chemical Regimes of Living," *Environmental History*, Vol. 13, No. 4, 2008, pp. 695–703.
 
 *"Cars, militarization, water, laws, the direction of a river, the price of oil, the properties of sand, the rise of neoliberalism, histories of colonial dispossession-are all part of a complex of molecular relations that extend outward in place, and into the past, as well as forward to uncertain futures"* (p. 696).
 
