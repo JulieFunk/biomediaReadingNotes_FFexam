@@ -51,9 +51,6 @@
   Disruption,” *O-Zone: A Journal of Object-Oriented Studies*, Issue 1, 2013, pp. 1-12 (Secondary).
 - Bennett, Jane. *Vibrant Matter: A Political Ecology of Things*, Duke UP, 2010 (Secondary).
 - Gowdy, Barbara. *The White Bone*, Harper Perennial, 2007 (Primary).
-- Laveaga, Gabriela Soto. “Uncommon Trajectories: Steroid Hormones, Mexican Peasants, and 
-  the Search for a Wild Yam,” *Studies in History and Philosophy of Biological and 
-  Biomedical Sciences*, Vol. 36, No. 4, 2005, pp. 743–60 (Secondary).
 - Haraway, Donna. “Awash in Urine: DES and Premarin® in Multispecies Response-ability,” 
   *WSQ*, Vol. 40, No. 1&2, 2012, pp. 301-316 (Secondary).
 - Hendron, Sara, *What Can a Body Do? How we Meet the Built World*. Penguin Random House, 
@@ -68,6 +65,9 @@
   2014 (Primary).
 - Sharpe, Christina. “The Ship,” *In the Wake: On Blackness and Being*, Duke UP, 2016 
   (Secondary).
+- Soto Laveaga, Gabriela. “Uncommon Trajectories: Steroid Hormones, Mexican Peasants, and 
+  the Search for a Wild Yam,” *Studies in History and Philosophy of Biological and 
+  Biomedical Sciences*, Vol. 36, No. 4, 2005, pp. 743–60 (Secondary).
 - Szczygielska, Marianna. “Hyenas and Hormones: transpecies encounters and the traffic in 
   humanimals,” *Angelaki*, Vol. 22, No. 2, 2017, pp. 61-84 (Secondary).
 - Wilson, Elizabeth A. *Gut Feminism*,	Duke UP, 2015 (Secondary).
