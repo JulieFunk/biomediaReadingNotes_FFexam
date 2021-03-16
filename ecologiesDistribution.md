@@ -1,5 +1,35 @@
 # Ecologies of Hormonal Distribution Log
-**Last updated March 15, 2021**
+**Last updated March 16, 2021**
+
+## Haraway, Donna. “Awash in Urine: DES and Premarin® in Multispecies Response-ability,” WSQ, Vol. 40, No. 1&2, 2012, pp. 301-316.
+
+*"Still, my vet herself is too young to have been infected with my kind of terror of DES"* (p. 303).
+
+*"To say this scene is emblematic of the mixed structures and affects of biomedical technoscience is an understatement"* (p. 305).
+
+- Hormones are affective. Synthetic hormones like DES produce terror because of their history of medical harm, reproductive political control, and eugenics. However, we can compare this terror to pleasure in Preciado, and pleasure, terror, and mourning in Gowdy's *The White Bone*. Hormones produce affect beyond "being hormonal."
+
+- Structures of affect in biochemistry/biotechnology transcend boundaries within ecologies.
+
+*"Despite the fact the a double-blind study done at the University of Chicago in the early 1950s showed no benefit from DES for sustaining pregnancies in women, and the fact that by the late 1960s, six of seven leading human gynecological textbooks stated that DES did not prevent miscarriages..."* (p. 303).
+
+- See Hayward and Ah-King who explore concern over different hormonal treatment in men v. women. Politics of purity and essentialist "female" hormones are a concern when reproducibility is in question.
+
+*"MVD is the reason we changed prescriptions from a drug she had gobbled happily for a few years, called Propolin® (PPA, or phenylpropanolamine, “for oral use in dogs only”) to DES. PPA does a fine job pumping up urethral smooth muscle and keeping urine in its hygienic reservoirs for properly timed release in assigned places"* (p. 305).
+
+- Much of this article traces endocrinology through multispecies urine. This is particularly important when tracing back to dogs like Cayenne. The world of dog (an other nonhuman animals) urine externalized is an entirely complex system of informatics that human animals are not privy to. Gowdy tries to portray this.
+
+*"Or to find that “our bodies ourselves” includes mares and their foals (and a few stallions), with all the political and ethical consequences of that conjugation?"* (p. 307)
+
+- I reject "our bodies ourselves," even if Haraway is using this phrase to connect it to the bodies and politics subsumed within "our bodies ourselves." Our bodies include other bodies. Other bodies/ecologies include our bodies.
+
+*"However, reduced in volume, harvesting of pregnant mare urine (PMU) remains a worldwide business and Premarin® remains a much prescribed and profitable product"* (p. 309)
+
+- What is the difference between these mares and the campesinos in Mexico looking for barbasco? Not a rhetorical question. Reproductive labour exploited to allow white, "Western" women more reproductive empowerment.
+
+*"Having eaten Premarin® makes me more accountable to the well-being of ranchers, northern prairie ecologies, horses, activists, scientists, and women with breast cancer than I would otherwise be. Giving my dog DES makes me accountable to histories and ongoing possibilities differently from if we never shaped kinships with the attachment sites of this molecule"* (p. 313).
+
+- Respnse-ability is when implication turns to accountability through networked relations.
 
 ## Hendron, Sara, What Can a Body Do? How we Meet the Built World. Penguin Random House, 2020.
 
