@@ -1,6 +1,43 @@
 # Ecologies of Hormonal Distribution Log
 **Last updated March 16, 2021**
 
+## Szczygielska, Marianna. “Hyenas and Hormones: transpecies encounters and the traffic in humanimals,” Angelaki, Vol. 22, No. 2, 2017, pp. 61-84.
+
+*"To resolve this ambiguity and defuse the imbalance created between the sameness and difference principles clashing in bio medical discourses, scientists
+utilize sex hormones as mobile and versatile explanatory tools for the troubling case of the female 'phallus.'"* (p. 64).
+
+- Minding that "sex hormones" is already essentialist. Many of these targeted steroid hormones also do much more in the body than determine or perturb sexual behavior, traits, and function. The creation of the "natural abnormality" (p. 73) is a product of science boundedness to producing natureculture. 
+
+*"...human–hyena interspecies merging becomes a tool for translating bio logical states into cultural-societal meanings through medical discourses and scientific methods"* (p. 69-70).
+
+- This is what "mechanical aid" does! It does not just a measure of the qualitative phenotype to the quantitative concentration of hormones, but moves back to the qualitative in cultural values. Qual/quant measurements transverse."*
+
+*"Hyena bodies are not used for androgen production they are experimental bodies for producing scientific knowledge about sexual differentiation and this way are integral for trans and intersex being"* (p. 73).
+
+- Note, Hyena bodies don't produce androgens that are used for pharmaceutical development, but they are still bodies on the eye of scientific scrutiny and under the fist of "natural"  binary gender production and reproduction, but if this narrative changes/when it is employed through trans/intersex ontoepistemologies, it is "integral" for being trans and intersex.
+
+*"Until its closure in 2014, this scientific establishment [UCB] had been leading in laboratory research on spotted hyenas and specialized in endocrinological studies on hormone-based explanatory models of social behavior"* (p. 65).
+
+- Affect scientifically explained away through hormones. Szczygielska calls the scientific willfillness that has led both the scientific community and the general population that steroid-sex hormones, and these hormones alone, determine behaviour in animals a "leap of faith" (p. 65)
+
+*"For example, [Laurence G. Frank's] article “Evolution of Genital Masculinization: Why Do Female Hyaenas Have Such a Large ‘Penis’?” opens with a startling question: “Why would evolution create a reproductive organ so hazardous that 9–18% of females die during their first birth, and those that survive lose over 60% of their firstborn young?” (58). Not only does it put a strong focus on “extraordinary” genitalia but it also frames the analysis according to the reproductive costs and benefits evolutionary game"* (p. 66)
+
+*"Interestingly, when it came to females the scientists concluded that “exposure to anti-androgens in utero enhanced ‘feminine’ characteristics of the clitoris” (ibid.), meaning that these cubs were born with a smaller clitoris. **Thus, for females, enhancing femaleness equals reducing the phallus**"* (p.  71).
+
+- This science frames masculinization of feminine genitals as hazardous for reproductive health and species survival. The politics of purity transcend into the body as "natural abnormalities" aren't "natural" enough for science.
+
+- The female phallus/clitoris being a uniquely female trait of the female hyena -- reducing it is only increasing femininity in the human eye.
+
+*"The 'savior approach' is evident of colonial longings that significantly mark this perspective as embedded in the Western scientific project of recuperating hyenas’ reputation"* (p. 68).
+
+*"Given that the hyena’s route in the traffic in animals runs through colonial and racialized imaginaries of Africa and its wildlife produced by the Western savior-science discourses, identification or affinity with this particularly racialized animal is already a site of privilege easily occupied by white bodies"* (p. 76).
+
+- Gowdy uses her privileged narrative as a "saviour" approach to elephant life and reproduction, in part, through the use of vital endocrinology.
+
+*"Nelly Oudshoorn highlights the split between biological and biochemical perspectives in sex endocrinology, with the first one conceptualizing hormones 'as sexually specific agents, controlling sexual characteristics,' and the latter framing them 'as catalysts: chemical substances, sexually unspecified in origin and function, exerting manifold activities in the organism, instead of being primarily sex agents'"* (p. 69).
+
+- The biological [sex] hormone tells a different story than the biochemical hormone for Oudshoorn. I'm more interested in the biochemical hormone and its networks.
+ 
 ## Haraway, Donna. “Awash in Urine: DES and Premarin® in Multispecies Response-ability,” WSQ, Vol. 40, No. 1&2, 2012, pp. 301-316.
 
 *"Still, my vet herself is too young to have been infected with my kind of terror of DES"* (p. 303).
