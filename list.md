@@ -60,7 +60,7 @@
 - —. “What Can’t a Body Do?” *Catalyst*, Vol. 1, No. 3, Critical Commentary, 2017, pp. 1-15 
   (Secondary).
 - Parikka, Jussi.	“Animal Ensembles, Robotic Affects” *Insect Media: An Archealogy of Animals 
-  and Technology*, Minnesota UP, 2010 (Secondary).
+  and Technology*, Minnesota UP, 2010, pp. 121-144 (Secondary).
 - Porpentine Charity Heartscape and Neotenomie. *With Those We Love Alive*, slimedaughter.com, 
   2014 (Primary).
 - Sharpe, Christina. “The Ship,” *In the Wake: On Blackness and Being*, Duke UP, 2016 
