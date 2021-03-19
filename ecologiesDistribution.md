@@ -1,5 +1,24 @@
 # Ecologies of Hormonal Distribution Log
-**Last updated March 16, 2021**
+**Last updated March 19, 2021**
+
+## Parikka, Jussi. “Animal Ensembles, Robotic Affects” Insect Media: An Archealogy of Animals and Technology, Minnesota UP, 2010, pp. 121-144.
+
+*"John Johnston offers...a rethinking of the various complex ties among actual machinery such as computers, information and control sciences, and the refashioning of living systems as information entities instead of heat engines. The coinvestigation into computing and how life is fundamentally concieved of and defined by 'the regulation of passage of information,..."* (pp. 121-122).
+
+*"Physiology fed into design of computer systems that **remediated** organs and memory as if in the human 'system'...As Hayles notes, Warren McCulloch was continuously interested in the importance of embodiment for calculations. The drive was toward seeing how human beings and computers could share a similar ontological background in flows of binary code"* (emphasis added, p. 122)
+
+*"According to Sismondon, 'The living being...is a system within a system, containing* within *itself* a mediation...' The body of the living being is thus an intensive carrier of change, which resonates with its environment"* (p. 142).
+
+- Popular endocrinology / pop hormones use mediation as a metaphor for process/function. This makes sense as endocrinology is a distinctly modern, even cybernetic (developing concurrently), science. I think this metaphor of mediation is useful for thinking through and talking about hormones and their affective power, but it needs to be extended to economies and ecologies.
+
+- Early cybernetic thinkers have explored embodiment and interaction beyond the material confines of the flesh or hardware. This is why there is a need for affect theory in exploring biomediated experience. Seeing both bodies and computers as systems of "evironmental referentiality" (p. 129) helps us employ affect theory.
+
+*"In his critique of hylomorphic notions of form and content, Sismondon challenges the formalist ideas of information theories. Information is too often seen through conceptual dualisms of form and content., which brands communication as the stable process of transmitting content already in place. For example, the idea of bee communication is too easily formalized as a functionalist account of transmitting abstract symbols about the world **rather than as an active part of individuation**...[Information] assembles agencies into positions in a parallel move as language shifts from a represenatational signification to a gathering of terms of relations, collectives, and **transindividuals**--a project of connection"* (p. 141).
+
+*"Individuation does not measure information, but information points to an orientation with it. All of this happens in the intensive environmental relation in which any 'senders' and 'receivers' are enveloped in the individuation taking place. To specify this point in terms of communication research, we are dealing with information as an arrangement and creative relations between different states of reality."* (pp. 143-144).
+
+- This dualism occurs in endo/exocrinology. Transindividuation produces a picture of distinct agencies implicated in shared mediation through hormonal distribution and disruption. "Transindividuation" is what Haraway calls to when she says "our bodies ourselves."
+
 
 ## Szczygielska, Marianna. “Hyenas and Hormones: transpecies encounters and the traffic in humanimals,” Angelaki, Vol. 22, No. 2, 2017, pp. 61-84.
 
@@ -37,6 +56,7 @@ utilize sex hormones as mobile and versatile explanatory tools for the troubling
 *"Nelly Oudshoorn highlights the split between biological and biochemical perspectives in sex endocrinology, with the first one conceptualizing hormones 'as sexually specific agents, controlling sexual characteristics,' and the latter framing them 'as catalysts: chemical substances, sexually unspecified in origin and function, exerting manifold activities in the organism, instead of being primarily sex agents'"* (p. 69).
 
 - The biological [sex] hormone tells a different story than the biochemical hormone for Oudshoorn. I'm more interested in the biochemical hormone and its networks.
+
  
 ## Haraway, Donna. “Awash in Urine: DES and Premarin® in Multispecies Response-ability,” WSQ, Vol. 40, No. 1&2, 2012, pp. 301-316.
 
