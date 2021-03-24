@@ -1,5 +1,38 @@
 # Economies of Hormonal Disruption Log
-**Last updated March 10, 2021**
+**Last updated March 24, 2021**
+
+## Murphy, Michelle. “Distributed Reproduction,” The Economization of Life, Duke UP, 2017, pp. 135-145.
+
+*"To materialize people as the managerial noun of population is to expose them to designations of **being living forms of waste** available for destruction...[The term 'population'] is profoundly entangled with designations of surplus life, of life unworthy, of life contained, of life open to destruction."* (p. 135).
+
+*"Governing industry for the sake of the macroeconomy is a setup that **produces molecular material 'waste' emissions as outside of the calculation of value,** on the one hand, **and the governing of human “waste” as integral to the surround that capitalism demands, on the other hand**"* (p. 138).
+
+- Chemical emissions from resources consumed are seen as waste. Fungible bodies are seen as waste. See *Tissue Economies* for examples where waste is from fungible bodies but turns into nonfungible resources (ex., Mo and HeLa cell lines).
+
+*"In the early twentieth century, this was posed as the problem of differential fertility, of poor people having more children than the rich, of blacks having
+more children than whites, of others outnumbering the hegemonic elite"* (p. 136).
+
+*"In countries with low fertility rates, population policy takes the form of a new era of pro-natalism intent on maintaining the presence
+of high-consumption, more-valued lives, while simultaneously enforcing borders to limit the arrival of less valued lives from other territories."*
+
+- Mira is a device for the hegemonic elite to have more children. Reproductive disorders don't discriminate, but access to private care, support, and monitoring does. The underbelly of Mira is a project to protect the population of hegemonic elite.
+
+*"More recent demographic research has overturned the idea that any given human population has one singular slope of fertility in
+crease or decline; it is instead composed of a multiplicity of different fertility rates, and each of these rates **has to be understood as an artifact of measurement**, an outcome of slicing people along one axis or another"* (p. 136).
+
+- Fertility data is made narrative. It tells a story and is organized in ways that best do so. This has consequences, see Star and Bowker *Sorting Things Out*.
+
+*"Yet the narrowing of a feminist reproductive **politics to choice and consumption** repeatedly fails to address the racist and economized infrastructural distributions of value that unevenly diminish and assist the possibilities for sustaining life more generally"* (p. 140).
+
+- These politics of racist, economized infrastructural distributiions are not mentioned in Annemarie Mol's *The Logic of Care.*
+
+*"And yet the act of consumption itself—the taking of the drug, the using of the product, the eating of the food—contains its own rearrangements of risk: the food intervenes in your metabolism and is not merely nutritious, or the product is accompanied by toxicities, or the drug heals as it also has a side effect. The loan is both an investment in life and a rejigging of your precarity"* (p. 140).
+
+- Murphy sees reproductive commodities as a **"loan"** and I agree. They move through the body, through the space of privatized and personal home life. They are cheap and disposable. You loan someone else's labor, resources, time, from a corporation that owns them.
+
+*"Historicizing the economization of life in this way has been about what persists, what is destroyed, and what is recomposed. If production names the generativity of the economy, then distributed reproduction, at its most extensive, names the larger variegated process of becoming with the many into the future that stretches beyond 'economy' to include the making, breaking, and remaking of life worlds"* (p. 144).
+
+- Murphy offers 'distributed reproduction,' rather than population, as a more productive term for capturing the patterns of human social and economic growth. This term also can help us see how seeing hormones are distributed with people and how such distribution can also "disrupt" economies and the commodities they "loan" (re: Mira/N(o)vum Organum).
 
 ## Murphy, Michelle. "Chemical Regimes of Living," *Environmental History*, Vol. 13, No. 4, 2008, pp. 695–703.
 
