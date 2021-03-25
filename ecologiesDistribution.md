@@ -1,5 +1,39 @@
 # Ecologies of Hormonal Distribution Log
-**Last updated March 19, 2021**
+**Last updated March 25, 2021**
+
+## Murphy, Michelle. “What Can’t a Body Do?” Catalyst, Vol. 1, No. 3, Critical Commentary, 2017, pp. 1-15.
+
+*"I can say all this with the help of a motley array of disciplines – metabolomics, toxicology, biomonitoring, epigenomics, and so on – each of which offers an **instrument-mediated** micrological glimpse into the vastness of our chemical relations"* (emphasis added, p. 2).
+
+*"Sometimes chemical exposures are sensible, but mostly they are not, so we are often guessing that we sense them, retroactively, in the symptom, the brain fog, the miscarriage, the worry, the lump, the grief that comes later. Chemical relations connect us backwards in time, but also forward into what our bodies will become, into the future environment that we are cumulatively assembling"* (p. 2).
+
+- The affect of biochemical distribution is not immediately sensible (instrumentally mediated) to most people, but eventually the effects (symptoms) are.
+
+*"At the material metabolic and chemical level, embodiment is already altered, already non-innocently embroiled in uneven violent relations of being and doing"* (p. 4).
+
+*"It is in this bundle of tension that we might fashion a politics of decolonial STS both with and against 'the body'...Moreover, **“the body” itself is in need of dismantling**..."* (pp. 4-5).
+
+- We are all already implicated. All hormones are reproductive and that includes a potential to reproduce violence/disability.
+
+- The human body, the flesh body, is not a universal site. We need to expand to bodies past the flesh body. All endo is exo.
+
+*"We might, I suggest, call this alter-embodiment alterlife — a state of already having been altered by environmental violence that is nonetheless a capacity to become something else"* (p. 5).
+
+*"Attention to alterlife asks, not for a politics of fixing the other..."* (p. 8).
+
+- 'Afterlife' as an alternate theory of embodiment also plays off of the biochemical/pharmacokinetic half lives of active chemicals.
+
+- Not individualized solutions applied universally -- this is the part of Afterlife that builds on response-ability.
+
+*"Or put more simply: how do particular practices materialize particular modes of being? How does doing materialize being?"* (p. 7).
+
+- Being is already materialized, so is practice. Perhaps more specifically the question is:
+In which ways do practices and methodologies (what are the differences?) organize "materialized being?"
+
+*"Eve Tuck (Tuck, 2009) who has called for 'suspending damage' as a refusal to participate in 'damage based research' that concentrates the scope of attention on the dissection of bodies and biologies that are then reductively constituted as pathological and devalued. Invasive organisms are to be removed, bird damaged in oil spills culled, disturbed land becomes a **terra nullius**"* (p. 9).
+
+- Waste lands -- these become lands occupied with what the anthropocentric ontoepistemological view of biology considers waste. See *Tissue Economies.*
+
 
 ## Parikka, Jussi. “Animal Ensembles, Robotic Affects” Insect Media: An Archealogy of Animals and Technology, Minnesota UP, 2010, pp. 121-144.
 
