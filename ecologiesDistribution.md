@@ -1,5 +1,27 @@
 # Ecologies of Hormonal Distribution Log
-**Last updated March 25, 2021**
+**Last updated March 28, 2021**
+
+## Wilson, Elizabeth A. Gut Feminism, Duke UP, 2015.
+
+*"...there is still something about biology that remains troublesome for feminist theory...despite its avowed interest in the body, this feminist work is often reluctant to engage directly with biological data...one thing feminist theory stil needs, even after decades of feminist work on the life sciences, is a conceptual toolkit for reading biology"* (p. 3).
+
+- This claim is relevant to, and complicated by, the rise in TERF politics to willfully misunderstand or manipulate "biology" and biological data as something essential and absolute.
+
+*"What holds these critiques together is their sense of wariness in relation to psychopharmacology. These pills [according to feminist critics] coerce, dupe, control, manage, reterritorialize, enhance, subjectify, or normalize individuals; they are a part of a 'neurochemical reshaping of personhood' (N. Rose 2004, 122) that ought to be viewed with caution"* (p. 98).
+
+*"How SSRIs are represented, marketed, and prescribed has been more critically interesting than how thy are physiologically absorbed, distributed, metabolized, and excreted"* (p. 98).
+
+- Maybe, but these pharmaceuticals also keep people safe from hurting themselves and others. A more interesting critique to make of pharmacology is against the cultural and **environmental** factors that change the synthesis and reception of these chemicals in the body to begin with, as Wilson points out.
+
+*"Instead of attributing all the **pharmocological agency** to the pill (what it does, for better or for worse, to the body and mind), we can also think about a broader network of alliances in which, among other things, the body (gut) has powerful effects on how the drug works and how mind is mobilized...I am wagering that I can use the new biopsychiatry to make the pahrmaceutical data about SSRIs as a* source *(rather than an obstruction) for alternative stances on the body, mind, and depression"* (emphasis added, p. 99).
+
+- Wilson's position begins the work of branching agency outward from the body, but is still works with pharmaceuticals and their pharmacokinetics and pharmacodynamics as part of the "system" or network -- even a *source* -- rather something supplemental and foreign to the body.
+
+*"Kimberly Emmons (2010) builds a critical account of depression and gender by examining how **metaphor** shapes our understanding of depression. She argues that in many cases these metaphors reduce our accounts of depression to individualized and domesticated/privatized experience. In particular, the mechanical metaphors for SSRI action in the CNS synapse (e.g., 'lock and key') generate, inaccurately, the perception of a simple functionality in the pharmaceutical treatment of depression. "* (p. 104).
+
+- This oversimplification also happens in "pop hormones" and cybernetic approaches to endocrinology. There is a need for feminist theories of biochemistry and medicine to address more holistic approaches across the whole body (Wilson's focus) and into and across the environment (Murphy's focus).
+
+- The "lock and key" metaphor also produces the sense that healing is possible with thre right tools. If healing is not possible, it is a failure on the part of the individual and the treatment.
 
 ## Murphy, Michelle. “What Can’t a Body Do?” Catalyst, Vol. 1, No. 3, Critical Commentary, 2017, pp. 1-15.
 
