@@ -1,5 +1,25 @@
 # Ecologies of Hormonal Distribution Log
-**Last updated March 28, 2021**
+**Last updated March 31, 2021**
+
+## Sharpe, Christina. “The Ship,” In the Wake: On Blackness and Being, Duke UP, 2016.
+
+*"...we might understand the making of bodies into flesh and then into fungible commodities while retaining the appearance of flesh and blood..."* (p. 30).
+
+*"Insurance claims are what Katherine McKittrick calls the 'mathematics of black life' (McKittrick 2014), which includes that killability, that throwing overboard"* (p. 35)
+
+- Like Weheliye, Sharpe introduces the concept of the fungible black life. The ship most viscerally demonstrates the brute commodification and 'distribution logistics' and cost/benefit analysis of black life and black bodies once they become seen as "cargo."
+
+*"...we might add that the Black and queer Atlantic has always been the Trans*Atlantic. Black has always been that excess. Indeed, blackness throws into crisis, whether in these places one can ever really think together, Black and (hetero) normative. That is, Black life in and out of the 'New World' is always queered and more"* (pp. 30-32).
+
+- Sharpe argues that Black lives have always occupied queer spaces in white hegemony.
+
+*"...it is most likely that a human body would not make it to the seafloor intact. What happened to the bodies? By which I mean, what happened to the components of their bodies in salt water? Anne Gardulski tells me that because nutrients cycle through the ocean (the process of organisms eating organisms is the cycling of nutrients through the ocean), the atoms of thos people who were thrown overboard are out there in the ocean event today"* (p. 40).
+
+- The persistance of distribution of chemical life - a hauntology of capitalism much like the persistance of chemical pollution in environments.
+
+*"It is a mark consistant with the branding that would turn those Africans into property and with a Kongo cosmogram that marks the bearer of it as an initiate"* (p. 48).
+
+- Individualized biometrics and bioprofiles as "branding" - everyone has them, are used to organize and categorize.
 
 ## Wilson, Elizabeth A. Gut Feminism, Duke UP, 2015.
 
